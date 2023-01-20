@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none !important;
+    margin: 0%;
+    padding: 0%;
+}
+
+.contNav{
+    background-color: #15CFCD ;
+    border-radius: 10px;
+    margin-top: 15px;
+    height: 70px;
+}
